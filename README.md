@@ -19,8 +19,5 @@ Presently, I am earnestly engaged in augmenting my skill set as a Junior Data Sc
 
 ## Connect with Me
 
-- LinkedIn: [Aysu Kaymak]([https://www.linkedin.com/in/your_username](https://www.linkedin.com/in/aysu-kaymak/))
+- LinkedIn: [Aysu Kaymak](https://www.linkedin.com/in/aysu-kaymak/)
 - Email: [Aysu Kaymak](mailto:aysukaymak50@gmail.com)
-
-### Technologies
-- Docker
