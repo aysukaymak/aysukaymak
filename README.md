@@ -1,6 +1,6 @@
-# Hi there, I'm [Aysu] 👋
+# Hi there, I'm Aysu 👋
 
-👨‍💻 Jr. Data Scientist at [AISTUDIO](https://www.aistudio.ai/)  
+👨‍💻 Jr. Data Scientist at [AISTUDIO](https://aistudio.com.tr/)  
 
 ## About Me
 
