@@ -15,7 +15,7 @@ Presently, I am earnestly engaged in augmenting my skill set as a Junior Data Sc
 - **Languages:** Python, TypeScript, JavaScript, C#, SAS
 - **Frameworks:** Node.js, .NET, Entity
 - **Data Analysis/Science:** SAS, NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn
-- **Tools & Technologies:** Git, Docker, SAS Viya 
+- **Tools & Technologies:** VS Code, Jupyter Notebook, Git, Docker, SAS Viya 
 
 ## Connect with Me
 
