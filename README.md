@@ -1,6 +1,6 @@
 # Hi there, I'm Aysu 👋
 
-👨‍💻 Jr. Data Scientist at [AISTUDIO](https://aistudio.com.tr/)  
+👨‍💻 Jr. Data Analyst at [AISTUDIO](https://aistudio.com.tr/)  
 
 ## Skills
 
